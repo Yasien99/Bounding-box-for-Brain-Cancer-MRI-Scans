@@ -1,0 +1,9 @@
+INFO:root:------- Values Initialization DONE -------
+INFO:root:Number of dicom files: 900
+DEBUG:root:Loaded the first file successfully
+INFO:root:Chunk 899 Number of fields per file : 130
+INFO:root:Start processing Images
+INFO:root:Chunk run time: 20.719624519348145  seconds!
+INFO:root:Generating final metadata file
+INFO:root:Generating final mapping file
+INFO:root:Total run time: 20.86674928665161  seconds!
