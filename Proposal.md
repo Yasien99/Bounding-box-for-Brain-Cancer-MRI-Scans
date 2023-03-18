@@ -26,8 +26,6 @@
 
 **8) Project Schedule**
 
-Break the timeline into periods of up to 7 days
-
 **8.1) Community Bonding Period(May 17 - June 6)**
 
 -  Get to know the mentor, review the project details and scope, and clarify any doubts or questions.
@@ -64,13 +62,10 @@ Break the timeline into periods of up to 7 days
 
 **9) Planned GSoC work hours**
 
-This year, the full-time projects are expected a 35 hours a week contribution (large project) and half-time projects are expected a 18 hours a week contribution (medium size project). Please indicate your choice of the project length. All project ideas have an indication how we see a project to be (full-time, half-time, or a potential/flexibility to be either based on the contributor's proposal).
+-  I plan to work full-time on this project, contributing 35 hours a week. I am in the GMT+2 time zone and will be available to work during the day and evenings.
 
-Please also indicate the work hours (including the timezone), that you hope to work on your project. 
 
 **10) Planned absence/vacation days and other commitments during the GSoC period (including the community bonding period)**
-
--  I plan to work full-time on this project, contributing 35 hours a week. I am in the GMT+2 time zone and will be available to work during the day and evenings.
 
 -  I am will graduate this summer so I will need to take a break during my final exams from May 27 to 20 Jun.
 
@@ -87,3 +82,5 @@ Please also indicate the work hours (including the timezone), that you hope to w
 - Previously worked on medical imaging projects, including a web-based AI solution for breast ultrasound
 
 - Completed the Code Challenge and included a link to the code sample in my proposal.
+
+**12) Why me**
